@@ -1,0 +1,9 @@
+{
+	"name": "ggalvez24",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "96056a30-fc6b-4a87-a55c-9816404ef5b9",
+		"tenantId": "f727ec07-d623-4823-b9b8-103a8323495b"
+	}
+}
